@@ -1,0 +1,2 @@
+cd C:\Users\14037\Documents\InsuranceCalc\azureml_env_38
+Scripts\activate
